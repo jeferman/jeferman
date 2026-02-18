@@ -1,7 +1,6 @@
 # Germán
 
-![Banner Germán](baner-german2.png)
-
+<p align="center"> <img src="baner-german2.png" alt="Banner Germán" style="max-width: 100%; height: auto;"> </p>
 ---
 
 ## Sobre mí

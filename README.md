@@ -1,8 +1,6 @@
 # Germán
 
-<p align="center">
-  <img src="baner-german.png" alt="Banner Germán" height="180">
-</p>
+![Banner Germán](baner-german2.png)
 
 ---
 

@@ -1,8 +1,6 @@
 # Germán
 
-Senior Software Engineer  
-Backend • Arquitectura de Sistemas • Plataformas de Monitoreo y Cumplimiento Normativo  
-
+![Banner Germán](assets/baner-german.png)
 ---
 
 ## Sobre mí

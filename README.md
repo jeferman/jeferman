@@ -1,7 +1,7 @@
 # Germán
 
 <p align="center">
-  <img src="banner-german.png" alt="Banner Germán" height="180">
+  <img src="baner-german.png" alt="Banner Germán" height="180">
 </p>
 
 ---

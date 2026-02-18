@@ -1,6 +1,6 @@
 # Germán
 
-![Banner Germán](assets/baner-german.png)
+![Banner Germán](baner-german.png)
 ---
 
 ## Sobre mí
